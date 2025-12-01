@@ -8,7 +8,7 @@ int main() {
 
     if (ch >= 'A' && ch <= 'Z')
         printf("Uppercase Alphabet\n");
-    else if (ch >= 'a' && ch <= 'z')
+    else if (ch >=   'a' && ch <= 'z')
         printf("Lowercase Alphabet\n");
     else if (ch >= '0' && ch <= '9')
         printf("Digit\n");
